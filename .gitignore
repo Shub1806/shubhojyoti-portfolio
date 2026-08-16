@@ -1,0 +1,15 @@
+/node_modules
+/.next/
+/out/
+/build
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables — never commit these
+.env
+.env.local
+.env*.local
+
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
