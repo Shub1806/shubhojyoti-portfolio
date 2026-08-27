@@ -1,18 +1,9 @@
-// ─────────────────────────────────────────────────────────────
-//  EDIT THIS FILE AND NOTHING ELSE.
-//  Every word, project, and map pin on the site comes from here.
-//
-//  TODO before you deploy — search this file for "FILL IN":
-//    1. Your email address
-//    2. Your GitHub and LinkedIn URLs
-//    3. Repo links for each project (leave '' to hide the link)
-// ─────────────────────────────────────────────────────────────
 
 export const profile = {
   name: 'Shubhojyoti Datta Chaudhuri',
   role: 'Software & Machine Learning Engineer',
   thesis:
-    "I'm a CS master's student at the University at Buffalo. I build machine learning systems and web tools — most recently a publishing pipeline for a fashion startup and a classifier that predicts Buffalo police districts from emergency call data.",
+    "I'm a CS master's student at the University at Buffalo. I build machine learning systems and web tools — most recently a publishing pipeline for a fashion startup.",
   location: 'Buffalo, New York',
   email: '2002datta@gmail.com',
   resumeFile: '/resume.pdf',
